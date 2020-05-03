@@ -2,11 +2,10 @@
  
 SO I have created some of the basic star patterns which u can print using some for loops
 here are list of patterns
+
 HERE EACH PATTERN I HAVE PRINTED FOR 10 ROWS.
 
-
 PATTERN 1
-
           *
          ***
         *****
@@ -17,8 +16,8 @@ PATTERN 1
    ***************
   *****************
  *******************
-PATTERN 2
 
+PATTERN 2
 *******************
  *****************
   ***************
@@ -29,6 +28,7 @@ PATTERN 2
        *****
         ***
          *
+
 PATTERN 3
 
 *
@@ -50,6 +50,7 @@ PATTERN 3
 ***
 **
 *
+
 PATTERN 4
 
          *
@@ -105,4 +106,4 @@ PATTERN 6
 *******     *******
 ********   ********
 ********* *********
-so each pattern code is avaible
+so each pattern's code is avaible
